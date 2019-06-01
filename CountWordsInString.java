@@ -1,3 +1,11 @@
+/*
+Given a string - Count Total Number of words in the string.
+Note: Do Not Print Anything in your function.
+Ex:
+2
+this is a string o/p: 4
+great gambler	o/p: 2
+*/
 import java.util.*;
 import java.math.*;
 
